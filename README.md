@@ -1,6 +1,6 @@
 # 🕷️ Scrapy Super Crawler Project
 
-Welcome to the Scrapy Super Crawler Project! This project aims to be a powerhouse for web scraping and data extraction using Scrapy.
+Welcome to the Scrapy Super Crawler Project! This project aims to be a basic project for web scraping and data extraction using Scrapy.
 
 ## Project Overview
 
